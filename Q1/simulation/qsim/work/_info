@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Downloads\SD\Lista7\Q1\simulation\qsim
+vacionamentoMaquinas
+Z1 IFGkO=0VhO]NY0]28R=?k=3
+Z2 Ve45YGZ3K13Tz>Lb]?E7>z2
+Z3 dC:\Users\Aluno\Downloads\SD\Lista7\Q1\simulation\qsim
+Z4 w1723551895
+Z5 8acionamentoMaquinas.vo
+Z6 FacionamentoMaquinas.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 nacionamento@maquinas
+!i10b 1
+Z10 !s100 ^V32YEDQR^F9nmLAFG]8z3
+!s85 0
+Z11 !s108 1723551896.365000
+Z12 !s107 acionamentoMaquinas.vo|
+Z13 !s90 -work|work|acionamentoMaquinas.vo|
+!s101 -O0
+vacionamentoMaquinas_vlg_check_tst
+!i10b 1
+!s100 n_@hQA7G48`2c?_>UX1@k1
+I404b4g]WmXLfllAU>3NBR2
+VF:[3S^T4^0LheLN>PbJkR0
+R3
+Z14 w1723551893
+Z15 8acionamentoMaquinas.vt
+Z16 FacionamentoMaquinas.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z17 !s108 1723551896.529000
+Z18 !s107 acionamentoMaquinas.vt|
+Z19 !s90 -work|work|acionamentoMaquinas.vt|
+!s101 -O0
+R8
+nacionamento@maquinas_vlg_check_tst
+vacionamentoMaquinas_vlg_sample_tst
+!i10b 1
+!s100 XYgz1iQU^GcXX]iYOoT2M0
+IlzKd>mo]mzZdVOW<EZC082
+V_fm?Sb11SKP2bQ9f13`EG1
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+nacionamento@maquinas_vlg_sample_tst
+vacionamentoMaquinas_vlg_vec_tst
+!i10b 1
+!s100 neUacFRR60<LQ1^4?XnlY0
+I4XKY<4?LcZ0NAPA`z`7PK0
+VH7JPV3g05PC2:2g5G0BRV3
+R3
+R14
+R15
+R16
+L0 239
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+nacionamento@maquinas_vlg_vec_tst

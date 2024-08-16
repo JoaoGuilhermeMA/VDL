@@ -1,0 +1,98 @@
+$comment
+	File created using the following command:
+		vcd file paridadePar.msim.vcd -direction
+$end
+$date
+	Wed Aug 14 08:34:20 2024
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module paridadePar_vlg_vec_tst $end
+$var reg 3 ! paridade [0:2] $end
+$var wire 1 " saida [0] $end
+$var wire 1 # saida [1] $end
+$var wire 1 $ sampler $end
+$scope module i1 $end
+$var wire 1 % gnd $end
+$var wire 1 & vcc $end
+$var wire 1 ' unknown $end
+$var tri1 1 ( devclrn $end
+$var tri1 1 ) devpor $end
+$var tri1 1 * devoe $end
+$var wire 1 + Mux1~0_combout $end
+$var wire 1 , paridade~combout [0] $end
+$var wire 1 - paridade~combout [1] $end
+$var wire 1 . paridade~combout [2] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+1#
+0"
+x$
+0%
+1&
+x'
+1(
+1)
+1*
+0+
+0.
+0-
+0,
+$end
+#2500
+b100 !
+1,
+0$
+#5000
+b110 !
+b10 !
+1-
+0,
+1$
+#7500
+b110 !
+1,
+0$
+1+
+1"
+0#
+#10000
+b111 !
+b101 !
+b1 !
+1.
+0-
+0,
+1$
+0+
+0"
+1#
+#12500
+b101 !
+1,
+0$
+1+
+1"
+0#
+#15000
+b111 !
+b11 !
+1-
+0,
+1$
+#17500
+b111 !
+1,
+0$
+0+
+0"
+1#
+#20000

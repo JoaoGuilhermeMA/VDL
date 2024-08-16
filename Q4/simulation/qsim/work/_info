@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Downloads\SD\Lista7\Q4\simulation\qsim
+vparidadePar
+Z1 IVUIBNHF5oPL_9NnGY2AW23
+Z2 VB8;5GSc>9k>WnVj;d_P1e2
+Z3 dC:\Users\Aluno\Downloads\SD\Lista7\Q4\simulation\qsim
+Z4 w1723635253
+Z5 8paridadePar.vo
+Z6 FparidadePar.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 nparidade@par
+!i10b 1
+Z10 !s100 MYgWc99l>A[0<8z=iz`lU1
+!s85 0
+Z11 !s108 1723635258.096000
+Z12 !s107 paridadePar.vo|
+Z13 !s90 -work|work|paridadePar.vo|
+!s101 -O0
+vparidadePar_vlg_check_tst
+!i10b 1
+!s100 iR7L5bbz`LFBQjX7aIo>30
+Iin`?z3zh@QO:jL8E44b?k3
+Vk7=g@9aga;=G:B:OZJ>VH2
+R3
+Z14 w1723635251
+Z15 8paridadePar.vt
+Z16 FparidadePar.vt
+L0 57
+R7
+r1
+!s85 0
+31
+Z17 !s108 1723635258.315000
+Z18 !s107 paridadePar.vt|
+Z19 !s90 -work|work|paridadePar.vt|
+!s101 -O0
+R8
+nparidade@par_vlg_check_tst
+vparidadePar_vlg_sample_tst
+!i10b 1
+!s100 4LT>MW`T9JB_e^iXi1l7:2
+I]I5VVN<W4?mO19Q67198b1
+V0Jil<ga>c9`L`FRRj3VDX0
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+nparidade@par_vlg_sample_tst
+vparidadePar_vlg_vec_tst
+!i10b 1
+!s100 SfE=Ke@TA4k<KNL9lM:M12
+IhXKGAIQNOJjbhbT1P;0Fj2
+V6P`HRWDVVdcgj5Go15T5U0
+R3
+R14
+R15
+R16
+L0 169
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+nparidade@par_vlg_vec_tst

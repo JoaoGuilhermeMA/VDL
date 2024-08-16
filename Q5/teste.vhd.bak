@@ -1,0 +1,6 @@
+entity teste is
+	port(
+		a0,b0,a1,b1: in bit;
+		a,b,c,d,e,f,g: out bit
+	);
+end teste

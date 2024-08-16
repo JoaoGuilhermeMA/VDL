@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Downloads\SD\Lista7\Q3\simulation\qsim
+vBCDDoisEntreCinco
+Z1 IefWe7jOQX0_gHWnZHm8oA2
+Z2 VDLWPa3X9aU]F<3TD7h>Ih1
+Z3 dC:\Users\Aluno\Downloads\SD\Lista7\Q3\simulation\qsim
+Z4 w1723550927
+Z5 8BCDDoisEntreCinco.vo
+Z6 FBCDDoisEntreCinco.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@b@c@d@dois@entre@cinco
+!i10b 1
+Z10 !s100 :_I]3:@[aO94Cm<dYNlC=1
+!s85 0
+Z11 !s108 1723550929.204000
+Z12 !s107 BCDDoisEntreCinco.vo|
+Z13 !s90 -work|work|BCDDoisEntreCinco.vo|
+!s101 -O0
+vBCDDoisEntreCinco_vlg_check_tst
+!i10b 1
+!s100 Dc[azYLFa_<7kQHnfeCbJ3
+IhN36`3IXjTAMO^?JV:J]Z3
+V2FFe2@o<^jFLF6?JCJ<f`0
+R3
+Z14 w1723550926
+Z15 8BCDDoisEntreCinco.vt
+Z16 FBCDDoisEntreCinco.vt
+L0 57
+R7
+r1
+!s85 0
+31
+Z17 !s108 1723550929.350000
+Z18 !s107 BCDDoisEntreCinco.vt|
+Z19 !s90 -work|work|BCDDoisEntreCinco.vt|
+!s101 -O0
+R8
+n@b@c@d@dois@entre@cinco_vlg_check_tst
+vBCDDoisEntreCinco_vlg_sample_tst
+!i10b 1
+!s100 TVde=Kh]o>[;N<El2?09g3
+I=YAXnAeCM8l2XJZAH9@kZ0
+Vl6YPHVaMn:;[Q7e1eA4^j3
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@b@c@d@dois@entre@cinco_vlg_sample_tst
+vBCDDoisEntreCinco_vlg_vec_tst
+!i10b 1
+!s100 9aiDP[dB73A:E:@6h@WTY2
+Ikf0kC0^g<=g>bcNCVg9Ql2
+V]]8CGH0@IlGRaAf5Z?^Qe0
+R3
+R14
+R15
+R16
+L0 223
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@b@c@d@dois@entre@cinco_vlg_vec_tst

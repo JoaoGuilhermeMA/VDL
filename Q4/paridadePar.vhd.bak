@@ -1,0 +1,23 @@
+ENTITY paridadePar IS
+	PORT( paridade: IN STD_LOGIC_VECTOR(0 TO 2);
+			par, impar: OUT BIT);
+			
+END paridadePar;
+
+ARCHITECTURE Comportamento OF paridadePar IS
+BEGIN
+
+	WITH par SELECT
+		paridade <= "1" WHEN "011",
+		"1" WHEN "101",
+		"1" WHEN "110",
+		"0" WHEN OTHERS;
+		
+	WITH impar SELECT
+		paridade <= "0" WHEN "011",
+		"0" WHEN "101",
+		"0" WHEN "110",
+		"1" WHEN OTHERS;
+
+
+END Comportamento;

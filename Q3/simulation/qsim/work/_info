@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Downloads\SD\Lista7\Q3\simulation\qsim
+vgrayJohnson
+Z1 !s100 d=T6=3LjCOFGol4D=SlmX2
+Z2 INeB3nk___G2P1LjOl2a^b3
+Z3 VcMSUS7mI:nQ`NUoATa;]M0
+Z4 dC:\Users\Aluno\Downloads\SD\Lista7\Q3\simulation\qsim
+Z5 w1723552990
+Z6 8grayJohnson.vo
+Z7 FgrayJohnson.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|grayJohnson.vo|
+Z10 o-work work -O0
+Z11 ngray@johnson
+!i10b 1
+!s85 0
+Z12 !s108 1723552991.858000
+Z13 !s107 grayJohnson.vo|
+!s101 -O0
+vgrayJohnson_vlg_check_tst
+!i10b 1
+Z14 !s100 @k40gJ3G^?EXT;8VdcQ9K2
+Z15 IN;mPnh9ZcZ_6SI>RNF]>O1
+Z16 Vm0ThgDH]^AM4iz5h:jfDb3
+R4
+Z17 w1723552989
+Z18 8grayJohnson.vt
+Z19 FgrayJohnson.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z20 !s108 1723552992.045000
+Z21 !s107 grayJohnson.vt|
+Z22 !s90 -work|work|grayJohnson.vt|
+!s101 -O0
+R10
+Z23 ngray@johnson_vlg_check_tst
+vgrayJohnson_vlg_sample_tst
+!i10b 1
+Z24 !s100 aXDzCG`TR`_><@BPFe^g50
+Z25 IWTIkg?Moc=KU8XT_GjDXK2
+Z26 V^KU>^NVDAU5WjbJ5^cKTR1
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 ngray@johnson_vlg_sample_tst
+vgrayJohnson_vlg_vec_tst
+!i10b 1
+!s100 `Sh=@OhH[jQ93XGd=F]<43
+IT=``Wja<l2WjBIN=zk5a]2
+Z28 Vf[1f=>7oZaVoComa6lW`G3
+R4
+R17
+R18
+R19
+Z29 L0 223
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 ngray@johnson_vlg_vec_tst

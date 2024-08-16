@@ -1,0 +1,25 @@
+|teste
+a0 => sel.IN0
+a0 => T.IN0
+a0 => T.IN0
+b0 => sel[0].IN1
+b0 => T.IN0
+b0 => T.IN1
+a1 => sel.IN1
+a1 => sel.IN1
+a1 => sel.IN0
+b1 => sel[1].IN1
+b1 => sel.IN1
+b1 => sel.IN1
+te0 => sel.IN1
+te0 => T.IN1
+te0 => T.IN1
+saidas[6] <= Mux6.DB_MAX_OUTPUT_PORT_TYPE
+saidas[5] <= Mux5.DB_MAX_OUTPUT_PORT_TYPE
+saidas[4] <= Mux4.DB_MAX_OUTPUT_PORT_TYPE
+saidas[3] <= Mux3.DB_MAX_OUTPUT_PORT_TYPE
+saidas[2] <= Mux2.DB_MAX_OUTPUT_PORT_TYPE
+saidas[1] <= Mux1.DB_MAX_OUTPUT_PORT_TYPE
+saidas[0] <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
+
+

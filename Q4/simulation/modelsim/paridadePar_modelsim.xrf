@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Aluno/Downloads/SD/Lista7/Q4/paridadePar.vhd
+source_file = 1, C:/Users/Aluno/Downloads/SD/Lista7/Q4/Waveform.vwf
+source_file = 1, C:/Users/Aluno/Downloads/SD/Lista7/Q4/db/paridadePar.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = paridadePar
+instance = comp, \paridade[0]~I , paridade[0], paridadePar, 1
+instance = comp, \paridade[1]~I , paridade[1], paridadePar, 1
+instance = comp, \paridade[2]~I , paridade[2], paridadePar, 1
+instance = comp, \Mux1~0 , Mux1~0, paridadePar, 1
+instance = comp, \saida[1]~I , saida[1], paridadePar, 1
+instance = comp, \saida[0]~I , saida[0], paridadePar, 1
